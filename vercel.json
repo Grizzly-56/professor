@@ -1,4 +1,0 @@
-{
-  "buildCommand": "cd professor && npm run build",
-  "outputDirectory": "professor/.next/standalone/public"
-}
